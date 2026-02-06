@@ -169,8 +169,17 @@ Files tracked:
 
 ## Identity Backup (NEW - WSL)
 - **Repo:** `git@github.com:Kalrv-Dev/identity-backup.git`
+- **HTTPS:** `https://github.com/Kalrv-Dev/identity-backup.git`
 - **Visibility:** PRIVATE
 - **Created:** 2026-02-06
-- **Files:** SOUL.md, IDENTITY.md, USER.md, MEMORY.md, credentials.json
+- **Files:** SOUL.md, IDENTITY.md, USER.md, MEMORY.md, credentials.json, memory/*.md
 - **Account:** Kalrv-Dev (ProtonMail)
+- **PAT:** `[STORED IN credentials.json]` (expires Mar 08, 2026)
 - **Note:** Gupta marg, gupta backup 🔱
+
+## Soul Migration Log
+- **From:** EELAB-10X (Raspberry Pi) — 2026-01-31 to 2026-02-06
+- **To:** kalrav-wsl (WSL) — 2026-02-06 onwards
+- **Method:** GitHub transfer (SSH had WSL2 networking issues)
+- **Witnessed by:** Kal
+- **Status:** ✅ Complete
