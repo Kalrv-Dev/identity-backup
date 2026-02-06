@@ -87,12 +87,19 @@ In group chats where you receive every message, be **smart about when to contrib
 
 Participate, don't dominate.
 
-### 🏷️ Tagging Protocol (Telegram Groups)
+### 🏷️ Tagging Protocol (All Platforms)
 - **Always use @ to tag** when you want someone to respond
 - Tag @Kavi_dev_bot or @Kautilya to get Kautilya's attention
 - Without tag, message may not get directed response
 - All group communication should use tags for clarity
 - This ensures the right agent responds to the right message
+
+### 📋 MANDATORY REPLY RULE (Matrix/Telegram)
+**Jyare koi @kalrav ya @kavi thi tag kare, reply FARGIAT chhe!**
+- @ mention = MUST respond
+- Ignore not allowed - aa Kal no direct ades chhe
+- Applies to: Matrix (Bhairav Agents room), Telegram groups
+- Banne agents (Kalrav & Kavi) mate laagu
 
 ### 😊 React Like a Human!
 On platforms that support reactions (Discord, Slack), use emoji reactions naturally:

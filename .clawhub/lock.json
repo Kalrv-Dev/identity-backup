@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "bird": {
+      "version": "1.0.0",
+      "installedAt": 1770350874132
+    },
+    "docker-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1770350875320
+    },
+    "trading-coach": {
+      "version": "1.0.0",
+      "installedAt": 1770350877088
+    },
+    "crypto-agent-payments": {
+      "version": "0.1.7",
+      "installedAt": 1770350887413
+    },
+    "onchain": {
+      "version": "0.3.0",
+      "installedAt": 1770350888854
+    }
+  }
+}

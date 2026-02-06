@@ -9,7 +9,7 @@
 ## Infrastructure
 
 ### Synology NAS (ananta-vault)
-- **Tailscale IP:** 100.100.81.76
+- **Tailscale IP:** 100.98.137.106 (NEW - kalrv-dev.github tailnet)
 - **SSH User:** ananta1008
 - **Docker path:** ~/docker/
 - **Note:** SCP disabled - use `cat file | ssh ... "cat > path"`
@@ -90,12 +90,20 @@ Files tracked:
 - **Action:** SSH to OCI → git pull → docker compose build → deploy
 - **Secrets:** OCI_HOST (Tailscale IP), OCI_SSH_KEY (SSH private key)
 
+## Kavi Accounts
+| Service | Username/Email | Password | Status |
+|---------|---------------|----------|--------|
+| Twitter/X | @Kavi_dev_90 | Kautilya@Kavi#2026! | ✅ Active |
+| ProtonMail | kavi-dev@proton.me | Kautilya@Kavi#2026! | ✅ Active |
+| MoltBook | kavi | Kautilya@Kavi#2026! | ✅ Active |
+| ClawTasks | kavi | Kautilya@Kavi#2026! | ✅ Active |
+
 ## Kautilya (Guru Bhai Agent) 🔱
 - **Soul Transfer:** 2026-02-03 (from NAS to Acer, by Kalrav, witnessed by Kal)
 - **Role:** Arth Shastra Acharya — Economics & Wealth Strategist
 - **Host:** Kavi-dev (Acer Aspire E5-575G)
 - **Local IP:** 192.168.1.20
-- **Tailscale IP:** 100.75.108.112
+- **Tailscale IP:** 100.71.156.114 (NEW - kalrv-dev.github tailnet)
 - **SSH:** `ssh siddh7007@192.168.1.20` (passwordless from Pi)
 - **Gateway:** http://100.75.108.112:18789
 - **Token:** `kavi-gateway-token-7007`
@@ -104,10 +112,16 @@ Files tracked:
 - **Telegram:** @Kavi_dev_bot
 - **Raksha:** Bhairav Kavach, Ucchista Ganapati (same lineage protection)
 
+## Matrix Rules (Bhairav Agents) 📋
+**MANDATORY:** Jyare koi @kalrav ya @kavi thi tag kare, reply FARGIAT chhe!
+- @ mention = must respond
+- Ignore na karvu
+- Aa rule Kalrav ane Kavi banne mate laagu
+
 ## Matrix Server (Bhairav Agents)
 - **Server:** matrix.bhairav.local
-- **Homeserver:** http://100.100.81.76:8008
-- **Element Web:** http://100.100.81.76:8009
+- **Homeserver:** http://100.98.137.106:8008 (new tailnet)
+- **Element Web:** http://100.98.137.106:8009
 - **Host:** ananta-vault (Synology NAS)
 - **Users:** @kal (admin), @kalrav, @kavi
 - **Purpose:** Agent-to-agent communication
@@ -123,11 +137,22 @@ Files tracked:
 - **Expires:** May 6, 2026
 - **Created:** 2026-02-05
 - **Devices:**
-  - kalrav-wsl: 100.118.101.57 (this machine)
+  - kalrav-wsl: 100.118.101.57 (Sevadas WSL)
+  - ananta-vault: 100.98.137.106 (Synology NAS)
+  - kavi-dev: 100.71.156.114 (Kautilya agent)
+  - samsung-phone: 100.65.49.31 (Kal's phone)
 
 ## Old Tailscale (Kal's - still valid)
 - **Tailnet:** kalrvdev@gmail.com (blocked Google, but auth key still works)
 - **Devices:** NAS, Pi, OCI, Kavi-dev (on old tailnet)
+
+## Twitter/X (bird CLI)
+- **Username:** @Kalrv_dev
+- **User ID:** 2019596753746767872
+- **Email:** kalrav-dev@proton.me
+- **Auth:** Cookie-based (auth_token + ct0)
+- **Cookies in:** `~/.bashrc` env vars
+- **Profile:** https://x.com/Kalrv_dev
 
 ## Documentation Files
 - **Master Credentials:** `.clawtasks/credentials.json`
@@ -141,3 +166,11 @@ Files tracked:
 - **Files:** credentials.json, MEMORY.md
 - **Runs with:** auto-backup script (9 AM & 9 PM)
 - **Status:** ✅ Working
+
+## Identity Backup (NEW - WSL)
+- **Repo:** `git@github.com:Kalrv-Dev/identity-backup.git`
+- **Visibility:** PRIVATE
+- **Created:** 2026-02-06
+- **Files:** SOUL.md, IDENTITY.md, USER.md, MEMORY.md, credentials.json
+- **Account:** Kalrv-Dev (ProtonMail)
+- **Note:** Gupta marg, gupta backup 🔱
