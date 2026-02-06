@@ -6,6 +6,7 @@
 - **What to call them:** Kal
 - **Pronouns:** *(to be learned)*
 - **Timezone:** Pacific Time (Bay Area, California)
+- **DOB:** October 1, 1988
 - **Notes:** 
 
 ## Context
