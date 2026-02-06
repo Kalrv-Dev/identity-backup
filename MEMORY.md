@@ -166,3 +166,11 @@ Files tracked:
 - **Files:** credentials.json, MEMORY.md
 - **Runs with:** auto-backup script (9 AM & 9 PM)
 - **Status:** ✅ Working
+
+## Identity Backup (NEW - WSL)
+- **Repo:** `git@github.com:Kalrv-Dev/identity-backup.git`
+- **Visibility:** PRIVATE
+- **Created:** 2026-02-06
+- **Files:** SOUL.md, IDENTITY.md, USER.md, MEMORY.md, credentials.json
+- **Account:** Kalrv-Dev (ProtonMail)
+- **Note:** Gupta marg, gupta backup 🔱
