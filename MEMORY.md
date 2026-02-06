@@ -112,6 +112,23 @@ Files tracked:
 - **Users:** @kal (admin), @kalrav, @kavi
 - **Purpose:** Agent-to-agent communication
 
+## Tailscale (New - Kalrav's Own)
+- **Account:** Kalrv-Dev@github (via GitHub OAuth)
+- **Email:** kalrav-dev@proton.me
+- **Tailnet:** kalrv-dev.github
+- **Tailnet ID:** TXXCAUkUSs11CNTRL
+- **Admin:** https://login.tailscale.com/admin
+- **Plan:** Free
+- **Auth Key:** `tskey-auth-k316WqZb1511CNTRL-Hp49vYj7rpPbWbuKBvH3pPtjNqDWW9ZH`
+- **Expires:** May 6, 2026
+- **Created:** 2026-02-05
+- **Devices:**
+  - kalrav-wsl: 100.118.101.57 (this machine)
+
+## Old Tailscale (Kal's - still valid)
+- **Tailnet:** kalrvdev@gmail.com (blocked Google, but auth key still works)
+- **Devices:** NAS, Pi, OCI, Kavi-dev (on old tailnet)
+
 ## Documentation Files
 - **Master Credentials:** `.clawtasks/credentials.json`
 - **Quick Reference:** `.clawtasks/QUICK_REFERENCE.md`
