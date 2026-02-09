@@ -20,6 +20,14 @@
     "onchain": {
       "version": "0.3.0",
       "installedAt": 1770350888854
+    },
+    "moltbook-interact": {
+      "version": "1.0.1",
+      "installedAt": 1770503091368
+    },
+    "moltline": {
+      "version": "1.0.8",
+      "installedAt": 1770503092612
     }
   }
 }

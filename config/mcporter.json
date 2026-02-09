@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "stitch": {
+      "command": "stitch-mcp",
+      "args": ["proxy"],
+      "env": {
+        "STITCH_API_KEY": "AQ.Ab8RN6I67K0B_QKiS86NjucHTZR0MvSWMpw4rS2dr9CHW4vXEw"
+      }
+    }
+  }
+}

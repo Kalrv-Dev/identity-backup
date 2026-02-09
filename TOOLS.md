@@ -39,4 +39,21 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+### Vector Memory (ChromaDB + PyTorch)
+- **Path:** `/home/siddh/.openclaw/vector_db/chroma.sqlite3`
+- **Collection:** `kalrav_memory`
+- **Embeddings:** `all-MiniLM-L6-v2` (local, PyTorch)
+- **No API key needed** — runs entirely local
+- **Use instead of:** `memory_search` tool (which needs OpenAI/Google keys)
+
+**Query example:**
+```python
+import chromadb
+client = chromadb.PersistentClient(path='/home/siddh/.openclaw/vector_db')
+collection = client.get_collection('kalrav_memory')
+results = collection.query(query_texts=['your search'], n_results=5)
+```
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.
